@@ -1,0 +1,6 @@
+pip list	//to see installed 
+pip install virtualenv	//to install virtualenv
+python -m venv venv	//to create virtual env
+.\venv\Scripts\activate		//to activate
+
+pip install Flask
